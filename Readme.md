@@ -52,4 +52,4 @@ The Random Forest model was the best solution based on our results and achieved 
 
 ### Future Improvements
 
-Areas of improvement in the future include better feature engineering to create new relations between the features and additional hyperparameter tuning on the Scikit-Learn classifiers and also additional tuning for the neural network.
+Areas of improvement in the future include better feature engineering to create new relations between the features and additional hyperparameter tuning on the Scikit-Learn regressors and also additional tuning for the neural network.
